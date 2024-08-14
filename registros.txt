@@ -1,0 +1,37 @@
+1. Programa que escreve 'olá, mundo JS' - SAÍDA DE DADOS
+-> Ao executar ele vai jogar no terminal do nosso programa (ali embaixo) a 
+escrita ali
+
+Quando escrevo "console. " ele dá uma sugestão de várias coisas, por exemplo:
+- log, error, warn... posso escolher
+Mas ali vou usar o "log"
+
+O javascript não pede o ponto e vírgula, diferente das outras linguagens
+Mas posso usar para sinalizar o final de uma linha
+
+Para salvar: Control + s 
+
+Como executar: rodar em node - colocar no terminal: node programa.js
+(node, espaço e o nome do programa)
+
+Atalho: digitando "log" e selecionando a segunda opção que tem um bloquinho,
+ele escreve já direto o 'console.log...'
+
+[] Saída de dados
+[] Entrada de dados
+    - Terminal
+    - Ler arquivo
+[] Variáveis
+    - Var
+    - let
+    - const
+tipos de dados que vamos trabalhar:
+// Texto (String)
+// números (Inteiros ou floats)
+// boolens (true ou false)
+
+Instalei a biblioteca "npm i prompt-sync" digitando isso no console e dando 'enter'
+
+2 . Exercício: Ler dois números e apresentar a soma
+
+3. Exercício do URI - anotei no outro .txt

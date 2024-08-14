@@ -1,0 +1,29 @@
+Exercício:
+
+Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de
+A e B atribuindo o seu resultado na variável X conforme exemplo abaixo. Não 
+apresente mensagem alguma além daquilo que está sendo especificado e não
+esqueça de imprimir o fim de linha após o resultado, caso contrário, você
+receberá "Presentation Error".
+
+ENTRADA:
+A entrada contém 2 valores inteiros
+
+SAÍDA:
+Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X
+e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal
+de igualdade, conforme exemplo abaixo.
+
+Exemplo de entrada:
+10
+9
+
+Exemplo de saída:
+X = 19
+
+
+Anotações exercício:
+Essas importações ali são por causa do URI, essa plataforma dele...
+
+Como ali não diz para ter escrita perguntando "digite o número..." aí só pego
+e coloco os números direto ali em "ENTRADA DE DADOS"
